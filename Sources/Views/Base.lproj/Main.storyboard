@@ -104,7 +104,7 @@
                         <outlet property="delay" destination="vGW-4i-0S6" id="Wgl-z7-iDL"/>
                         <outlet property="duration" destination="V3D-Qs-uOf" id="nIs-4W-lux"/>
                         <outlet property="force" destination="4ZC-fg-mfP" id="OXv-Xt-9ES"/>
-                        <outlet property="nameOfAnimatio" destination="tKk-Ox-dEc" id="4nS-cr-QPF"/>
+                        <outlet property="nameOfAnimation" destination="tKk-Ox-dEc" id="4nS-cr-QPF"/>
                         <outlet property="viewAnimation" destination="Yvo-Xe-4Pe" id="VqE-GC-Ufy"/>
                     </connections>
                 </viewController>
